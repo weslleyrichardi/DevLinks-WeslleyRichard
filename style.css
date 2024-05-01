@@ -40,7 +40,6 @@ body {
 #conteiner {
     width: 360px;
     margin: auto; /*margin-left: auto; & margin-right: auto;*/
-    margin-top: 56px;
     padding: 0 24px;
 }
 
@@ -135,7 +134,6 @@ ul li a:hover {
 #social_links {
     display: flex;
     justify-content: center;
-    padding: 24px 0;
     font-size: 24px;
 }
 
